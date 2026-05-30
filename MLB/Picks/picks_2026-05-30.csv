@@ -1,6 +1,6 @@
-Date,Game,Type,Selection,Line,Odds,Edge%,Confidence,Model%,Implied%,Stake%
-2026-05-30,San Francisco Giants @ Colorado Rockies,Moneyline,HOME,-,100,5.2,LOW,52.6,50.0,1.0
-2026-05-30,San Francisco Giants @ Colorado Rockies,Total,OVER,10.5,-122,21.92,MEDIUM,67.0,55.0,1.0
-2026-05-30,New York Yankees @ Athletics,Moneyline,HOME,-,128,19.93,MEDIUM,52.6,43.9,1.0
-2026-05-30,New York Yankees @ Athletics,Total,OVER,9.5,-115,10.68,MEDIUM,59.2,53.5,1.0
-2026-05-30,Arizona Diamondbacks @ Seattle Mariners,Moneyline,AWAY,-,128,10.12,MEDIUM,48.3,43.9,1.0
+Date,Game,Type,Selection,Line,Odds,Edge%,Confidence,Model%,Implied%,Stake%,CLV_ID,Line Movement,Sharp Money
+2026-05-30,New York Yankees @ Athletics,Moneyline,HOME,-,128,19.93,MEDIUM,52.6,43.9,1.0,Athletics_ML_20260530,0,False
+2026-05-30,New York Yankees @ Athletics,Total,UNDER,9.5,-105,30.81,MEDIUM,67.0,51.2,1.0,New York Yankees_Athletics_U9.5_20260530,0,False
+2026-05-30,Arizona Diamondbacks @ Seattle Mariners,Moneyline,AWAY,-,128,10.12,MEDIUM,48.3,43.9,1.0,Arizona Diamondbacks_ML_20260530,0,False
+2026-05-30,Arizona Diamondbacks @ Seattle Mariners,Total,UNDER,7.5,-105,30.81,MEDIUM,67.0,51.2,1.0,Arizona Diamondbacks_Seattle Mariners_U7.5_20260530,0,False
+2026-05-30,Philadelphia Phillies @ Los Angeles Dodgers,Moneyline,AWAY,-,188,39.1,MEDIUM,48.3,34.7,1.0,Philadelphia Phillies_ML_20260530,5,True
