@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generated_at": "2026-05-30T13:55:05.043406",
+  "generated_at": "2026-05-30T14:01:23.448975",
   "version": "2.0",
   "turtle_doctrine": {
     "min_edge_percent": 2.5,
@@ -18,10 +18,10 @@
       "game_time": "2026-05-31T01:10:00Z",
       "venue": "Coors Field",
       "weather": {
-        "temperature": 24.3,
+        "temperature": 24.1,
         "condition": "Clear",
-        "wind_speed": 17.8,
-        "wind_direction": 252
+        "wind_speed": 17.3,
+        "wind_direction": 253
       },
       "away_pitcher": {
         "id": null,
@@ -107,10 +107,10 @@
       "game_time": "2026-05-31T02:05:00Z",
       "venue": "Sutter Health Park",
       "weather": {
-        "temperature": 26.0,
-        "condition": "Mostly Clear",
-        "wind_speed": 5.8,
-        "wind_direction": 300
+        "temperature": 26.3,
+        "condition": "Clear",
+        "wind_speed": 7.4,
+        "wind_direction": 299
       },
       "away_pitcher": {
         "id": null,
@@ -196,10 +196,10 @@
       "game_time": "2026-05-31T02:10:00Z",
       "venue": "T-Mobile Park",
       "weather": {
-        "temperature": 15.1,
+        "temperature": 15.4,
         "condition": "Clear",
-        "wind_speed": 5.9,
-        "wind_direction": 313
+        "wind_speed": 5.1,
+        "wind_direction": 315
       },
       "away_pitcher": {
         "id": null,
@@ -273,7 +273,7 @@
       "game_time": "2026-05-31T02:10:00Z",
       "venue": "UNIQLO Field at Dodger Stadium",
       "weather": {
-        "temperature": 23.7,
+        "temperature": 23.5,
         "condition": "Clear",
         "wind_speed": 17.2,
         "wind_direction": 254
