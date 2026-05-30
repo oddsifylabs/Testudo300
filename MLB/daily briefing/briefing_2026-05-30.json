@@ -1,0 +1,344 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T13:55:05.043406",
+  "version": "2.0",
+  "turtle_doctrine": {
+    "min_edge_percent": 2.5,
+    "bankroll_percent": 1.0,
+    "max_daily_bets": 5,
+    "max_total_exposure": 5.0,
+    "clv_tracking": true,
+    "minimum_confidence": "MEDIUM"
+  },
+  "games": [
+    {
+      "game_id": 824352,
+      "away_team": "San Francisco Giants",
+      "home_team": "Colorado Rockies",
+      "game_time": "2026-05-31T01:10:00Z",
+      "venue": "Coors Field",
+      "weather": {
+        "temperature": 24.3,
+        "condition": "Clear",
+        "wind_speed": 17.8,
+        "wind_direction": 252
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.35,
+          "vs_league": 3.6,
+          "rating": "Average"
+        },
+        "home": {
+          "era": 5.45,
+          "vs_league": 29.8,
+          "rating": "Below Avg"
+        }
+      },
+      "odds": {
+        "home_ml": 100,
+        "away_ml": -118,
+        "home_rl": -152,
+        "home_rl_line": 1.5,
+        "away_rl": 126,
+        "away_rl_line": -1.5,
+        "total": 10.5,
+        "over_odds": -122,
+        "under_odds": 100
+      },
+      "projection": {
+        "home_runs": 7.6,
+        "away_runs": 7.3,
+        "total": 14.9,
+        "home_win_prob": 52.6,
+        "away_win_prob": 47.4,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0.0,
+          "description": "Clear, 70\u00b0F, Wind 0mph \u2192 Favors OVER",
+          "runs_adjustment": 1.3,
+          "temperature": 70,
+          "wind_speed": 0,
+          "condition": "Clear"
+        },
+        "park_factor": 1.26
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "HOME",
+          "team": "Colorado Rockies",
+          "edge": 5.2,
+          "confidence": "LOW",
+          "odds": 100,
+          "implied_prob": 50.0,
+          "model_prob": 52.6,
+          "stake_percent": 1.0
+        },
+        {
+          "type": "Total",
+          "selection": "OVER",
+          "line": 10.5,
+          "edge": 21.92,
+          "confidence": "MEDIUM",
+          "odds": -122,
+          "implied_prob": 55.0,
+          "model_prob": 67.0,
+          "projected_total": 14.9,
+          "stake_percent": 1.0
+        }
+      ]
+    },
+    {
+      "game_id": 825000,
+      "away_team": "New York Yankees",
+      "home_team": "Athletics",
+      "game_time": "2026-05-31T02:05:00Z",
+      "venue": "Sutter Health Park",
+      "weather": {
+        "temperature": 26.0,
+        "condition": "Mostly Clear",
+        "wind_speed": 5.8,
+        "wind_direction": 300
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 3.52,
+          "vs_league": -16.2,
+          "rating": "Above Avg"
+        },
+        "home": {
+          "era": 4.2,
+          "vs_league": 0.0,
+          "rating": "Average"
+        }
+      },
+      "odds": {
+        "home_ml": 128,
+        "away_ml": -152,
+        "home_rl": -128,
+        "home_rl_line": 1.5,
+        "away_rl": 106,
+        "away_rl_line": -1.5,
+        "total": 9.5,
+        "over_odds": -115,
+        "under_odds": -105
+      },
+      "projection": {
+        "home_runs": 5.5,
+        "away_runs": 5.2,
+        "total": 10.7,
+        "home_win_prob": 52.6,
+        "away_win_prob": 47.4,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0.0,
+          "description": "Clear, 70\u00b0F, Wind 0mph",
+          "runs_adjustment": 0.3,
+          "temperature": 70,
+          "wind_speed": 0,
+          "condition": "Clear"
+        },
+        "park_factor": 1.05
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "HOME",
+          "team": "Athletics",
+          "edge": 19.93,
+          "confidence": "MEDIUM",
+          "odds": 128,
+          "implied_prob": 43.9,
+          "model_prob": 52.6,
+          "stake_percent": 1.0
+        },
+        {
+          "type": "Total",
+          "selection": "OVER",
+          "line": 9.5,
+          "edge": 10.68,
+          "confidence": "MEDIUM",
+          "odds": -115,
+          "implied_prob": 53.5,
+          "model_prob": 59.2,
+          "projected_total": 10.7,
+          "stake_percent": 1.0
+        }
+      ]
+    },
+    {
+      "game_id": 823132,
+      "away_team": "Arizona Diamondbacks",
+      "home_team": "Seattle Mariners",
+      "game_time": "2026-05-31T02:10:00Z",
+      "venue": "T-Mobile Park",
+      "weather": {
+        "temperature": 15.1,
+        "condition": "Clear",
+        "wind_speed": 5.9,
+        "wind_direction": 313
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.28,
+          "vs_league": 1.9,
+          "rating": "Average"
+        },
+        "home": {
+          "era": 3.95,
+          "vs_league": -6.0,
+          "rating": "Above Avg"
+        }
+      },
+      "odds": {
+        "away_ml": 128,
+        "home_ml": -152,
+        "away_rl": -182,
+        "away_rl_line": 1.5,
+        "home_rl": 150,
+        "home_rl_line": -1.5,
+        "total": 7.5,
+        "over_odds": -115,
+        "under_odds": -105
+      },
+      "projection": {
+        "home_runs": 4.7,
+        "away_runs": 4.5,
+        "total": 9.2,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0.0,
+          "description": "Clear, 70\u00b0F, Wind 0mph",
+          "runs_adjustment": -0.1,
+          "temperature": 70,
+          "wind_speed": 0,
+          "condition": "Clear"
+        },
+        "park_factor": 0.98
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "AWAY",
+          "team": "Arizona Diamondbacks",
+          "edge": 10.12,
+          "confidence": "MEDIUM",
+          "odds": 128,
+          "implied_prob": 43.9,
+          "model_prob": 48.3,
+          "stake_percent": 1.0
+        }
+      ]
+    },
+    {
+      "game_id": 823945,
+      "away_team": "Philadelphia Phillies",
+      "home_team": "Los Angeles Dodgers",
+      "game_time": "2026-05-31T02:10:00Z",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "weather": {
+        "temperature": 23.7,
+        "condition": "Clear",
+        "wind_speed": 17.2,
+        "wind_direction": 254
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 3.58,
+          "vs_league": -14.8,
+          "rating": "Above Avg"
+        },
+        "home": {
+          "era": 3.12,
+          "vs_league": -25.7,
+          "rating": "Elite"
+        }
+      },
+      "odds": {
+        "home_ml": -225,
+        "away_ml": 188,
+        "home_rl": -108,
+        "home_rl_line": -1.5,
+        "away_rl": -111,
+        "away_rl_line": 1.5,
+        "total": 9.0,
+        "over_odds": 100,
+        "under_odds": -122
+      },
+      "projection": {
+        "home_runs": 4.5,
+        "away_runs": 4.3,
+        "total": 8.8,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0.0,
+          "description": "Clear, 70\u00b0F, Wind 0mph",
+          "runs_adjustment": -0.2,
+          "temperature": 70,
+          "wind_speed": 0,
+          "condition": "Clear"
+        },
+        "park_factor": 0.96
+      },
+      "picks": []
+    }
+  ],
+  "summary": {
+    "total_games": 4,
+    "games_with_pitchers": 0,
+    "total_picks": 5,
+    "high_confidence": 0,
+    "medium_confidence": 4,
+    "low_confidence": 1,
+    "total_exposure": 5.0
+  }
+}

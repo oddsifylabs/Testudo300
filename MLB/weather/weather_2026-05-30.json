@@ -1,0 +1,73 @@
+{
+  "date": "2026-05-30",
+  "games": [
+    {
+      "venue": "Coors Field",
+      "weather": {
+        "temperature": 24.3,
+        "condition": "Clear",
+        "wind_speed": 17.8,
+        "wind_direction": 252
+      },
+      "weather_impact": {
+        "impact": 0.0,
+        "description": "Clear, 70\u00b0F, Wind 0mph \u2192 Favors OVER",
+        "runs_adjustment": 1.3,
+        "temperature": 70,
+        "wind_speed": 0,
+        "condition": "Clear"
+      }
+    },
+    {
+      "venue": "Sutter Health Park",
+      "weather": {
+        "temperature": 26.0,
+        "condition": "Mostly Clear",
+        "wind_speed": 5.8,
+        "wind_direction": 300
+      },
+      "weather_impact": {
+        "impact": 0.0,
+        "description": "Clear, 70\u00b0F, Wind 0mph",
+        "runs_adjustment": 0.3,
+        "temperature": 70,
+        "wind_speed": 0,
+        "condition": "Clear"
+      }
+    },
+    {
+      "venue": "T-Mobile Park",
+      "weather": {
+        "temperature": 15.1,
+        "condition": "Clear",
+        "wind_speed": 5.9,
+        "wind_direction": 313
+      },
+      "weather_impact": {
+        "impact": 0.0,
+        "description": "Clear, 70\u00b0F, Wind 0mph",
+        "runs_adjustment": -0.1,
+        "temperature": 70,
+        "wind_speed": 0,
+        "condition": "Clear"
+      }
+    },
+    {
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "weather": {
+        "temperature": 23.7,
+        "condition": "Clear",
+        "wind_speed": 17.2,
+        "wind_direction": 254
+      },
+      "weather_impact": {
+        "impact": 0.0,
+        "description": "Clear, 70\u00b0F, Wind 0mph",
+        "runs_adjustment": -0.2,
+        "temperature": 70,
+        "wind_speed": 0,
+        "condition": "Clear"
+      }
+    }
+  ]
+}

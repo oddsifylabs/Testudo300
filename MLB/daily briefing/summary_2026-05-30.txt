@@ -1,0 +1,47 @@
+🐢 TESTUDO300 DAILY BRIEFING
+📅 2026-05-30
+⏰ Generated: 2026-05-30T13:55:05.043406
+
+═══════════════════════════
+
+📊 SUMMARY
+Games Analyzed: 4
+Games with Confirmed Pitchers: 0
+Total Picks: 5
+  HIGH Confidence: 0
+  MEDIUM Confidence: 4
+  LOW Confidence: 1
+Total Exposure: 5.0% of bankroll
+
+═══════════════════════════
+
+🔥 TOP PICKS (MEDIUM+ Confidence)
+
+⚡ San Francisco Giants @ Colorado Rockies
+   Total: OVER
+   Odds: -122
+   Edge: 21.92%
+   Model: 67.0% | Implied: 55.0%
+   Stake: 1.0% of bankroll
+
+⚡ New York Yankees @ Athletics
+   Moneyline: HOME
+   Odds: 128
+   Edge: 19.93%
+   Model: 52.6% | Implied: 43.9%
+   Stake: 1.0% of bankroll
+
+⚡ New York Yankees @ Athletics
+   Total: OVER
+   Odds: -115
+   Edge: 10.68%
+   Model: 59.2% | Implied: 53.5%
+   Stake: 1.0% of bankroll
+
+⚡ Arizona Diamondbacks @ Seattle Mariners
+   Moneyline: AWAY
+   Odds: 128
+   Edge: 10.12%
+   Model: 48.3% | Implied: 43.9%
+   Stake: 1.0% of bankroll
+
