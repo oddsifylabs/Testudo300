@@ -1,0 +1,58 @@
+🐢 TESTUDO300 DAILY BRIEFING
+📅 2026-06-01
+⏰ Generated: 2026-06-01T14:00:13.453000
+
+═══════════════════════════
+
+📊 SUMMARY
+Games Analyzed: 3
+Games with Confirmed Pitchers: 0
+Total Picks: 5
+  HIGH Confidence: 0
+  MEDIUM Confidence: 4
+  LOW Confidence: 1
+Total Exposure: 5.0% of bankroll
+
+═══════════════════════════
+
+🔥 TOP PICKS (MEDIUM+ Confidence)
+
+⚡ Colorado Rockies @ Los Angeles Angels
+   Moneyline: AWAY
+   Odds: 130
+   Edge: 12.93%
+   Model: 49.1% | Implied: 43.5%
+   Stake: 1.0% of bankroll
+
+
+⚡ Colorado Rockies @ Los Angeles Angels
+   Total: OVER
+   Odds: -122
+   Edge: 7.72%
+   Model: 59.2% | Implied: 55.0%
+   Stake: 1.0% of bankroll
+
+
+⚡ Los Angeles Dodgers @ Arizona Diamondbacks
+   Total: UNDER
+   Odds: -122
+   Edge: 21.92%
+   Model: 67.0% | Implied: 55.0%
+   Stake: 1.0% of bankroll
+
+
+⚡ New York Mets @ Seattle Mariners
+   Moneyline: AWAY
+   Odds: 128
+   Edge: 10.12%
+   Model: 48.3% | Implied: 43.9%
+   Stake: 1.0% of bankroll
+
+
+═══════════════════════════
+
+🛡️ Turtle Doctrine Safeguards:
+• Min Edge: 2.5%
+• Max Exposure: 5.0%
+• Stake per Pick: 1.0%
+• CLV Tracking: Active

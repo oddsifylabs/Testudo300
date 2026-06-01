@@ -1,0 +1,308 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T14:00:13.453000",
+  "version": "3.0",
+  "turtle_doctrine": {
+    "min_edge_percent": 2.5,
+    "bankroll_percent": 1.0,
+    "max_daily_bets": 5,
+    "max_total_exposure": 5.0,
+    "clv_tracking": true,
+    "minimum_confidence": "MEDIUM"
+  },
+  "games": [
+    {
+      "game_id": 824027,
+      "away_team": "Colorado Rockies",
+      "home_team": "Los Angeles Angels",
+      "game_time": "2026-06-02T01:38:00Z",
+      "venue": "Angel Stadium",
+      "weather": {},
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 5.45,
+          "vs_league": 29.8,
+          "rating": "Below Avg"
+        },
+        "home": {
+          "era": 4.88,
+          "vs_league": 16.2,
+          "rating": "Below Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -156.75,
+          "home_variance": 9,
+          "away_ml": 136.25,
+          "away_variance": 10,
+          "total": 8.75,
+          "total_variance": 0.5
+        },
+        "bookmaker_count": 4
+      },
+      "odds": {
+        "away_ml": 130,
+        "home_ml": -154,
+        "total": 8.5,
+        "over_odds": -122,
+        "under_odds": 100,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": 4.9,
+        "away_runs": 4.8,
+        "total": 9.7,
+        "home_win_prob": 50.9,
+        "away_win_prob": 49.1,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0,
+          "description": "No data",
+          "runs_adjustment": 0
+        },
+        "park_factor": 0.99,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "AWAY",
+          "team": "Colorado Rockies",
+          "edge": 12.93,
+          "confidence": "MEDIUM",
+          "odds": 130,
+          "implied_prob": 43.5,
+          "model_prob": 49.1,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Colorado Rockies_ML_20260601"
+        },
+        {
+          "type": "Total",
+          "selection": "OVER",
+          "line": 8.5,
+          "edge": 7.72,
+          "confidence": "MEDIUM",
+          "odds": -122,
+          "implied_prob": 55.0,
+          "model_prob": 59.2,
+          "projected_total": 9.7,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Colorado Rockies_Los Angeles Angels_O8.5_20260601"
+        }
+      ]
+    },
+    {
+      "game_id": 825078,
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Arizona Diamondbacks",
+      "game_time": "2026-06-02T01:40:00Z",
+      "venue": "Chase Field",
+      "weather": {
+        "temperature": 28.4,
+        "condition": "Clear",
+        "wind_speed": 2.5,
+        "wind_direction": 180,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 3.12,
+          "vs_league": -25.7,
+          "rating": "Elite"
+        },
+        "home": {
+          "era": 4.28,
+          "vs_league": 1.9,
+          "rating": "Average"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": 54.0,
+          "home_variance": 209,
+          "away_ml": -119.5,
+          "away_variance": 10,
+          "total": 9.25,
+          "total_variance": 0.5
+        },
+        "bookmaker_count": 4
+      },
+      "odds": {
+        "home_ml": -102,
+        "away_ml": -116,
+        "total": 9.5,
+        "over_odds": 100,
+        "under_odds": -122,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": 1.5,
+        "away_runs": 1.2,
+        "total": 2.7,
+        "home_win_prob": 52.6,
+        "away_win_prob": 47.4,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -41.6,
+          "description": "Clear, 28.4\u00b0F, Wind 2.5mph \u2192 Favors UNDER",
+          "runs_adjustment": -3.8,
+          "temperature": 28.4,
+          "wind_speed": 2.5,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.08,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "HOME",
+          "team": "Arizona Diamondbacks",
+          "edge": 4.17,
+          "confidence": "LOW",
+          "odds": -102,
+          "implied_prob": 50.5,
+          "model_prob": 52.6,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Arizona Diamondbacks_ML_20260601"
+        },
+        {
+          "type": "Total",
+          "selection": "UNDER",
+          "line": 9.5,
+          "edge": 21.92,
+          "confidence": "MEDIUM",
+          "odds": -122,
+          "implied_prob": 55.0,
+          "model_prob": 67.0,
+          "projected_total": 2.7,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Los Angeles Dodgers_Arizona Diamondbacks_U9.5_20260601"
+        }
+      ]
+    },
+    {
+      "game_id": 823131,
+      "away_team": "New York Mets",
+      "home_team": "Seattle Mariners",
+      "game_time": "2026-06-02T01:40:00Z",
+      "venue": "T-Mobile Park",
+      "weather": {
+        "temperature": 11.5,
+        "condition": "Clear",
+        "wind_speed": 6.2,
+        "wind_direction": 83,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.22,
+          "vs_league": 0.5,
+          "rating": "Average"
+        },
+        "home": {
+          "era": 3.95,
+          "vs_league": -6.0,
+          "rating": "Above Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {}
+      },
+      "odds": {
+        "away_ml": 128,
+        "home_ml": -152,
+        "total": 7.5,
+        "over_odds": -105,
+        "under_odds": -115,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": -1.1,
+        "away_runs": -1.3,
+        "total": -2.4,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -58.5,
+          "description": "Clear, 11.5\u00b0F, Wind 6.2mph \u2192 Favors UNDER",
+          "runs_adjustment": -5.9,
+          "temperature": 11.5,
+          "wind_speed": 6.2,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 0.98,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "AWAY",
+          "team": "New York Mets",
+          "edge": 10.12,
+          "confidence": "MEDIUM",
+          "odds": 128,
+          "implied_prob": 43.9,
+          "model_prob": 48.3,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "New York Mets_ML_20260601"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_games": 3,
+    "games_with_pitchers": 0,
+    "total_picks": 5,
+    "high_confidence": 0,
+    "medium_confidence": 4,
+    "low_confidence": 1,
+    "total_exposure": 5.0
+  }
+}
