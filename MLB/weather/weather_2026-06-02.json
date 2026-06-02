@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-02",
+  "games": [
+    {
+      "venue": "Angel Stadium",
+      "weather": {
+        "temperature": 17.5,
+        "condition": "Overcast",
+        "wind_speed": 6.2,
+        "wind_direction": 173,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -52.5,
+        "description": "Overcast, 17.5\u00b0F, Wind 6.2mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.3,
+        "temperature": 17.5,
+        "wind_speed": 6.2,
+        "condition": "Overcast",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "Chase Field",
+      "weather": {
+        "temperature": 31.5,
+        "condition": "Overcast",
+        "wind_speed": 18.2,
+        "wind_direction": 261,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -29.4,
+        "description": "Overcast, 31.5\u00b0F, Wind 18.2mph \u2192 Favors UNDER",
+        "runs_adjustment": -2.5,
+        "temperature": 31.5,
+        "wind_speed": 18.2,
+        "condition": "Overcast",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "T-Mobile Park",
+      "weather": {
+        "temperature": 16.2,
+        "condition": "Clear",
+        "wind_speed": 5.5,
+        "wind_direction": 67,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -53.8,
+        "description": "Clear, 16.2\u00b0F, Wind 5.5mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.5,
+        "temperature": 16.2,
+        "wind_speed": 5.5,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+Date,Game,Type,Selection,Line,Odds,Edge%,Confidence,Model%,Implied%,Stake%,CLV_ID,Line Movement,Sharp Money
+2026-06-02,Colorado Rockies @ Los Angeles Angels,Moneyline,AWAY,-,132,13.91,MEDIUM,49.1,43.1,1.0,Colorado Rockies_ML_20260602,0,False
+2026-06-02,Colorado Rockies @ Los Angeles Angels,Total,UNDER,8.5,-105,30.81,MEDIUM,67.0,51.2,1.0,Colorado Rockies_Los Angeles Angels_U8.5_20260602,0,False
+2026-06-02,Los Angeles Dodgers @ Arizona Diamondbacks,Moneyline,HOME,-,168,40.97,MEDIUM,52.6,37.3,1.0,Arizona Diamondbacks_ML_20260602,0,False
+2026-06-02,Los Angeles Dodgers @ Arizona Diamondbacks,Total,UNDER,9.0,-105,30.81,MEDIUM,67.0,51.2,1.0,Los Angeles Dodgers_Arizona Diamondbacks_U9.0_20260602,0,False
+2026-06-02,New York Mets @ Seattle Mariners,Moneyline,AWAY,-,116,4.33,LOW,48.3,46.3,1.0,New York Mets_ML_20260602,0,False
