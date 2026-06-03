@@ -1,0 +1,128 @@
+{
+  "date": "2026-06-03",
+  "games": [
+    {
+      "venue": "Yankee Stadium",
+      "weather": {
+        "temperature": 18.6,
+        "condition": "Clear",
+        "wind_speed": 10.9,
+        "wind_direction": 314,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -46.0,
+        "description": "Clear, 18.6\u00b0F, Wind 10.9mph \u2192 Favors UNDER",
+        "runs_adjustment": -4.5,
+        "temperature": 18.6,
+        "wind_speed": 10.9,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "American Family Field",
+      "weather": {
+        "temperature": 11.2,
+        "condition": "Clear",
+        "wind_speed": 4.4,
+        "wind_direction": 279,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -58.8,
+        "description": "Clear, 11.2\u00b0F, Wind 4.4mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.8,
+        "temperature": 11.2,
+        "wind_speed": 4.4,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "Busch Stadium",
+      "weather": {
+        "temperature": 17.3,
+        "condition": "Clear",
+        "wind_speed": 2.3,
+        "wind_direction": 72,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -52.7,
+        "description": "Clear, 17.3\u00b0F, Wind 2.3mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.3,
+        "temperature": 17.3,
+        "wind_speed": 2.3,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "Wrigley Field",
+      "weather": {
+        "temperature": 13.7,
+        "condition": "Clear",
+        "wind_speed": 3.3,
+        "wind_direction": 41,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -56.3,
+        "description": "Clear, 13.7\u00b0F, Wind 3.3mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.5,
+        "temperature": 13.7,
+        "wind_speed": 3.3,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "Daikin Park",
+      "weather": {},
+      "weather_impact": {
+        "impact": 0,
+        "description": "No data",
+        "runs_adjustment": 0
+      }
+    },
+    {
+      "venue": "Angel Stadium",
+      "weather": {
+        "temperature": 16.4,
+        "condition": "Clear",
+        "wind_speed": 4.3,
+        "wind_direction": 228,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -53.6,
+        "description": "Clear, 16.4\u00b0F, Wind 4.3mph \u2192 Favors UNDER",
+        "runs_adjustment": -5.4,
+        "temperature": 16.4,
+        "wind_speed": 4.3,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    },
+    {
+      "venue": "Chase Field",
+      "weather": {
+        "temperature": 30.5,
+        "condition": "Clear",
+        "wind_speed": 7.2,
+        "wind_direction": 267,
+        "precipitation_prob": 0
+      },
+      "weather_impact": {
+        "impact": -39.5,
+        "description": "Clear, 30.5\u00b0F, Wind 7.2mph \u2192 Favors UNDER",
+        "runs_adjustment": -3.5,
+        "temperature": 30.5,
+        "wind_speed": 7.2,
+        "condition": "Clear",
+        "precipitation_prob": 0
+      }
+    }
+  ]
+}

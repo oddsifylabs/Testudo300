@@ -1,0 +1,633 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:33:13.133640",
+  "version": "3.0",
+  "turtle_doctrine": {
+    "min_edge_percent": 2.5,
+    "bankroll_percent": 1.0,
+    "max_daily_bets": 5,
+    "max_total_exposure": 5.0,
+    "clv_tracking": true,
+    "minimum_confidence": "MEDIUM"
+  },
+  "games": [
+    {
+      "game_id": 823540,
+      "away_team": "Cleveland Guardians",
+      "home_team": "New York Yankees",
+      "game_time": "2026-06-03T23:05:00Z",
+      "venue": "Yankee Stadium",
+      "weather": {
+        "temperature": 18.6,
+        "condition": "Clear",
+        "wind_speed": 10.9,
+        "wind_direction": 314,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 3.25,
+          "vs_league": -22.6,
+          "rating": "Elite"
+        },
+        "home": {
+          "era": 3.52,
+          "vs_league": -16.2,
+          "rating": "Above Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -160.5,
+          "home_variance": 2,
+          "away_ml": 140.5,
+          "away_variance": 9,
+          "total": 8.5,
+          "total_variance": 0.0
+        },
+        "bookmaker_count": 4
+      },
+      "odds": {
+        "away_ml": 136,
+        "home_ml": -162,
+        "total": 8.5,
+        "over_odds": -115,
+        "under_odds": -105,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": 0.5,
+        "away_runs": 0.3,
+        "total": 0.8,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -46.0,
+          "description": "Clear, 18.6\u00b0F, Wind 10.9mph \u2192 Favors UNDER",
+          "runs_adjustment": -4.5,
+          "temperature": 18.6,
+          "wind_speed": 10.9,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.02,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "AWAY",
+          "team": "Cleveland Guardians",
+          "edge": 13.99,
+          "confidence": "MEDIUM",
+          "odds": 136,
+          "implied_prob": 42.4,
+          "model_prob": 48.3,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Cleveland Guardians_ML_20260603"
+        },
+        {
+          "type": "Total",
+          "selection": "UNDER",
+          "line": 8.5,
+          "edge": 30.81,
+          "confidence": "MEDIUM",
+          "odds": -105,
+          "implied_prob": 51.2,
+          "model_prob": 67.0,
+          "projected_total": 0.8,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Cleveland Guardians_New York Yankees_U8.5_20260603"
+        }
+      ]
+    },
+    {
+      "game_id": 823780,
+      "away_team": "San Francisco Giants",
+      "home_team": "Milwaukee Brewers",
+      "game_time": "2026-06-03T23:40:00Z",
+      "venue": "American Family Field",
+      "weather": {
+        "temperature": 11.2,
+        "condition": "Clear",
+        "wind_speed": 4.4,
+        "wind_direction": 279,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.35,
+          "vs_league": 3.6,
+          "rating": "Average"
+        },
+        "home": {
+          "era": 3.72,
+          "vs_league": -11.4,
+          "rating": "Above Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -147.66666666666666,
+          "home_variance": 7,
+          "away_ml": 128.16666666666666,
+          "away_variance": 8,
+          "total": 8.0,
+          "total_variance": 0.0
+        },
+        "bookmaker_count": 6
+      },
+      "odds": {
+        "home_ml": -148,
+        "away_ml": 126,
+        "total": 8.0,
+        "over_odds": -105,
+        "under_odds": -115,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": -0.8,
+        "away_runs": -1.0,
+        "total": -1.8,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -58.8,
+          "description": "Clear, 11.2\u00b0F, Wind 4.4mph \u2192 Favors UNDER",
+          "runs_adjustment": -5.8,
+          "temperature": 11.2,
+          "wind_speed": 4.4,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.01,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Moneyline",
+          "selection": "AWAY",
+          "team": "San Francisco Giants",
+          "edge": 9.16,
+          "confidence": "LOW",
+          "odds": 126,
+          "implied_prob": 44.2,
+          "model_prob": 48.3,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "San Francisco Giants_ML_20260603"
+        },
+        {
+          "type": "Total",
+          "selection": "UNDER",
+          "line": 8.0,
+          "edge": 25.26,
+          "confidence": "MEDIUM",
+          "odds": -115,
+          "implied_prob": 53.5,
+          "model_prob": 67.0,
+          "projected_total": -1.8,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "San Francisco Giants_Milwaukee Brewers_U8.0_20260603"
+        }
+      ]
+    },
+    {
+      "game_id": 823051,
+      "away_team": "Texas Rangers",
+      "home_team": "St. Louis Cardinals",
+      "game_time": "2026-06-03T23:45:00Z",
+      "venue": "Busch Stadium",
+      "weather": {
+        "temperature": 17.3,
+        "condition": "Clear",
+        "wind_speed": 2.3,
+        "wind_direction": 72,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.75,
+          "vs_league": 13.1,
+          "rating": "Below Avg"
+        },
+        "home": {
+          "era": 4.15,
+          "vs_league": -1.2,
+          "rating": "Average"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -114.0,
+          "home_variance": 8,
+          "away_ml": -0.6666666666666666,
+          "away_variance": 207,
+          "total": 8.0,
+          "total_variance": 0.0
+        },
+        "bookmaker_count": 6
+      },
+      "odds": {
+        "home_ml": -112,
+        "away_ml": -104,
+        "total": 8.0,
+        "over_odds": -108,
+        "under_odds": -112,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": -0.4,
+        "away_runs": -0.5,
+        "total": -0.9,
+        "home_win_prob": 50.9,
+        "away_win_prob": 49.1,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -52.7,
+          "description": "Clear, 17.3\u00b0F, Wind 2.3mph \u2192 Favors UNDER",
+          "runs_adjustment": -5.3,
+          "temperature": 17.3,
+          "wind_speed": 2.3,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.0,
+        "umpire_adjustment": 0
+      },
+      "picks": [
+        {
+          "type": "Total",
+          "selection": "UNDER",
+          "line": 8.0,
+          "edge": 26.82,
+          "confidence": "MEDIUM",
+          "odds": -112,
+          "implied_prob": 52.8,
+          "model_prob": 67.0,
+          "projected_total": -0.9,
+          "stake_percent": 1.0,
+          "clv_tracking_id": "Texas Rangers_St. Louis Cardinals_U8.0_20260603"
+        }
+      ]
+    },
+    {
+      "game_id": 824671,
+      "away_team": "Athletics",
+      "home_team": "Chicago Cubs",
+      "game_time": "2026-06-04T00:05:00Z",
+      "venue": "Wrigley Field",
+      "weather": {
+        "temperature": 13.7,
+        "condition": "Clear",
+        "wind_speed": 3.3,
+        "wind_direction": 41,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.2,
+          "vs_league": 0.0,
+          "rating": "Average"
+        },
+        "home": {
+          "era": 4.68,
+          "vs_league": 11.4,
+          "rating": "Below Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -129.5,
+          "home_variance": 8,
+          "away_ml": 113.0,
+          "away_variance": 9,
+          "total": 8.583333333333334,
+          "total_variance": 0.5
+        },
+        "bookmaker_count": 6
+      },
+      "odds": {
+        "away_ml": 108,
+        "home_ml": -126,
+        "total": 8.5,
+        "over_odds": -118,
+        "under_odds": -104,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": -0.4,
+        "away_runs": -0.6,
+        "total": -1.0,
+        "home_win_prob": 51.7,
+        "away_win_prob": 48.3,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -56.3,
+          "description": "Clear, 13.7\u00b0F, Wind 3.3mph \u2192 Favors UNDER",
+          "runs_adjustment": -5.5,
+          "temperature": 13.7,
+          "wind_speed": 3.3,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.03,
+        "umpire_adjustment": 0
+      },
+      "picks": []
+    },
+    {
+      "game_id": 824188,
+      "away_team": "Pittsburgh Pirates",
+      "home_team": "Houston Astros",
+      "game_time": "2026-06-04T00:10:00Z",
+      "venue": "Daikin Park",
+      "weather": {},
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 4.62,
+          "vs_league": 10.0,
+          "rating": "Below Avg"
+        },
+        "home": {
+          "era": 3.85,
+          "vs_league": -8.3,
+          "rating": "Above Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -104.0,
+          "home_variance": 6,
+          "away_ml": -108.0,
+          "away_variance": 0,
+          "total": 8.833333333333334,
+          "total_variance": 0.5
+        },
+        "bookmaker_count": 3
+      },
+      "odds": {
+        "home_ml": -108,
+        "away_ml": -108,
+        "total": 8.5,
+        "over_odds": -115,
+        "under_odds": -105,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": 4.9,
+        "away_runs": 4.8,
+        "total": 9.7,
+        "home_win_prob": 50.9,
+        "away_win_prob": 49.1,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": 0,
+          "description": "No data",
+          "runs_adjustment": 0
+        },
+        "park_factor": 1.0,
+        "umpire_adjustment": 0
+      },
+      "picks": []
+    },
+    {
+      "game_id": 824024,
+      "away_team": "Colorado Rockies",
+      "home_team": "Los Angeles Angels",
+      "game_time": "2026-06-04T01:38:00Z",
+      "venue": "Angel Stadium",
+      "weather": {
+        "temperature": 16.4,
+        "condition": "Clear",
+        "wind_speed": 4.3,
+        "wind_direction": 228,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 5.45,
+          "vs_league": 29.8,
+          "rating": "Below Avg"
+        },
+        "home": {
+          "era": 4.88,
+          "vs_league": 16.2,
+          "rating": "Below Avg"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": -146.66666666666666,
+          "home_variance": 21,
+          "away_ml": 127.33333333333333,
+          "away_variance": 5,
+          "total": 8.5,
+          "total_variance": 0.0
+        },
+        "bookmaker_count": 6
+      },
+      "odds": {
+        "away_ml": 126,
+        "home_ml": -148,
+        "total": 8.5,
+        "over_odds": -115,
+        "under_odds": -105,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": -0.5,
+        "away_runs": -0.6,
+        "total": -1.1,
+        "home_win_prob": 50.9,
+        "away_win_prob": 49.1,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -53.6,
+          "description": "Clear, 16.4\u00b0F, Wind 4.3mph \u2192 Favors UNDER",
+          "runs_adjustment": -5.4,
+          "temperature": 16.4,
+          "wind_speed": 4.3,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 0.99,
+        "umpire_adjustment": 0
+      },
+      "picks": []
+    },
+    {
+      "game_id": 825077,
+      "away_team": "Los Angeles Dodgers",
+      "home_team": "Arizona Diamondbacks",
+      "game_time": "2026-06-04T01:40:00Z",
+      "venue": "Chase Field",
+      "weather": {
+        "temperature": 30.5,
+        "condition": "Clear",
+        "wind_speed": 7.2,
+        "wind_direction": 267,
+        "precipitation_prob": 0
+      },
+      "away_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "home_pitcher": {
+        "id": null,
+        "name": "TBD",
+        "stats": {}
+      },
+      "bullpen": {
+        "away": {
+          "era": 3.12,
+          "vs_league": -25.7,
+          "rating": "Elite"
+        },
+        "home": {
+          "era": 4.28,
+          "vs_league": 1.9,
+          "rating": "Average"
+        }
+      },
+      "line_movement": {
+        "movement": 0,
+        "sharp_indicator": false,
+        "consensus": {
+          "home_ml": 126.66666666666667,
+          "home_variance": 4,
+          "away_ml": -142.66666666666666,
+          "away_variance": 5,
+          "total": 9.5,
+          "total_variance": 0.0
+        },
+        "bookmaker_count": 3
+      },
+      "odds": {
+        "home_ml": 124,
+        "away_ml": -146,
+        "total": 9.5,
+        "over_odds": -110,
+        "under_odds": -110,
+        "line_movement": 0,
+        "sharp_indicator": false
+      },
+      "projection": {
+        "home_runs": 1.8,
+        "away_runs": 1.5,
+        "total": 3.3,
+        "home_win_prob": 52.6,
+        "away_win_prob": 47.4,
+        "data_quality": "TBD Pitchers",
+        "sample_size": 1,
+        "weather_impact": {
+          "impact": -39.5,
+          "description": "Clear, 30.5\u00b0F, Wind 7.2mph \u2192 Favors UNDER",
+          "runs_adjustment": -3.5,
+          "temperature": 30.5,
+          "wind_speed": 7.2,
+          "condition": "Clear",
+          "precipitation_prob": 0
+        },
+        "park_factor": 1.08,
+        "umpire_adjustment": 0
+      },
+      "picks": []
+    }
+  ],
+  "summary": {
+    "total_games": 7,
+    "games_with_pitchers": 0,
+    "total_picks": 5,
+    "high_confidence": 0,
+    "medium_confidence": 4,
+    "low_confidence": 1,
+    "total_exposure": 5.0
+  }
+}

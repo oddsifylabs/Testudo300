@@ -1,0 +1,58 @@
+🐢 TESTUDO300 DAILY BRIEFING
+📅 2026-06-03
+⏰ Generated: 2026-06-03T12:33:13.133640
+
+═══════════════════════════
+
+📊 SUMMARY
+Games Analyzed: 7
+Games with Confirmed Pitchers: 0
+Total Picks: 5
+  HIGH Confidence: 0
+  MEDIUM Confidence: 4
+  LOW Confidence: 1
+Total Exposure: 5.0% of bankroll
+
+═══════════════════════════
+
+🔥 TOP PICKS (MEDIUM+ Confidence)
+
+⚡ Cleveland Guardians @ New York Yankees
+   Moneyline: AWAY
+   Odds: 136
+   Edge: 13.99%
+   Model: 48.3% | Implied: 42.4%
+   Stake: 1.0% of bankroll
+
+
+⚡ Cleveland Guardians @ New York Yankees
+   Total: UNDER
+   Odds: -105
+   Edge: 30.81%
+   Model: 67.0% | Implied: 51.2%
+   Stake: 1.0% of bankroll
+
+
+⚡ San Francisco Giants @ Milwaukee Brewers
+   Total: UNDER
+   Odds: -115
+   Edge: 25.26%
+   Model: 67.0% | Implied: 53.5%
+   Stake: 1.0% of bankroll
+
+
+⚡ Texas Rangers @ St. Louis Cardinals
+   Total: UNDER
+   Odds: -112
+   Edge: 26.82%
+   Model: 67.0% | Implied: 52.8%
+   Stake: 1.0% of bankroll
+
+
+═══════════════════════════
+
+🛡️ Turtle Doctrine Safeguards:
+• Min Edge: 2.5%
+• Max Exposure: 5.0%
+• Stake per Pick: 1.0%
+• CLV Tracking: Active

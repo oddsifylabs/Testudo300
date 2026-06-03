@@ -1,0 +1,6 @@
+Date,Game,Type,Selection,Line,Odds,Edge%,Confidence,Model%,Implied%,Stake%,CLV_ID,Line Movement,Sharp Money
+2026-06-03,Cleveland Guardians @ New York Yankees,Moneyline,AWAY,-,136,13.99,MEDIUM,48.3,42.4,1.0,Cleveland Guardians_ML_20260603,0,False
+2026-06-03,Cleveland Guardians @ New York Yankees,Total,UNDER,8.5,-105,30.81,MEDIUM,67.0,51.2,1.0,Cleveland Guardians_New York Yankees_U8.5_20260603,0,False
+2026-06-03,San Francisco Giants @ Milwaukee Brewers,Moneyline,AWAY,-,126,9.16,LOW,48.3,44.2,1.0,San Francisco Giants_ML_20260603,0,False
+2026-06-03,San Francisco Giants @ Milwaukee Brewers,Total,UNDER,8.0,-115,25.26,MEDIUM,67.0,53.5,1.0,San Francisco Giants_Milwaukee Brewers_U8.0_20260603,0,False
+2026-06-03,Texas Rangers @ St. Louis Cardinals,Total,UNDER,8.0,-112,26.82,MEDIUM,67.0,52.8,1.0,Texas Rangers_St. Louis Cardinals_U8.0_20260603,0,False
